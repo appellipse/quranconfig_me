@@ -1,7 +1,7 @@
 {
 
   "production_ads_enabled": true,
-  "production_refresh_interval": 20,
+  "production_refresh_interval": 25,
 
   "production_app_open": "ca-app-pub-xxx/prod-appopen",
   "production_medium_banner": "ca-app-pub-xxx/prod-banner",
@@ -10,7 +10,7 @@
   "production_native": "ca-app-pub-xxx/prod-native",
 
   "test_ads_enabled": true,
-  "test_refresh_interval": 10,
+  "test_refresh_interval": 15,
 
   "test_app_open": "ca-app-pub-3940256099942544/3419835294",
   "test_banner": "ca-app-pub-3940256099942544/6300978111",
